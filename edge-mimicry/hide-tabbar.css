@@ -7,11 +7,11 @@
 /* adjust toolbar position to make use of title bar whitespace left after hiding tabs */
 #nav-bar {
   margin-top: -36px;
-	margin-right: 182px;
+  margin-right: 0px;
 	margin-bottom: 0px;
 }
 
 /* hides the tabs and changes the height of title bar */
 #tabbrowser-tabs {
   visibility: collapse !important;
-} 
+}
